@@ -55,6 +55,15 @@ Hi! I'm **Bayu Satrio**, a software developer enthusiastic about building modern
 
 ###
 
+## 🐍 Contribution Snake:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BayuSatrio2804/BayuSatrio2804/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BayuSatrio2804/BayuSatrio2804/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/BayuSatrio2804/BayuSatrio2804/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+###
+
 ## 💬 Dev Quote of the Day:
 <div align="center">
   <a href="https://git.io/typing-svg">
