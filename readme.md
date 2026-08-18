@@ -57,7 +57,9 @@ Hi! I'm **Bayu Satrio**, a software developer enthusiastic about building modern
 
 ## 💬 Dev Quote of the Day:
 <div align="center">
-  <img src="https://quotes-readme-tech.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=7AA2F7&center=true&vCenter=true&width=650&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck;%22Simplicity+is+prerequisite+for+reliability.%22+-+Edsger+W.+Dijkstra" alt="Dev Quote" />
+  </a>
 </div>
 
 ###
