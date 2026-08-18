@@ -13,15 +13,15 @@ a casual coder and total newcomer. My current hobbies involve tinkering with Jav
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-henna-three-17.vercel.app/api?username=BayuSatrio2804&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=BayuSatrio2804&theme=radical&hide_border=false)
-![](https://github-readme-stats-henna-three-17.vercel.app/api/top-langs/?username=BayuSatrio2804&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-henna-three-17.vercel.app/api?username=BayuSatrio2804&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=BayuSatrio2804&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-henna-three-17.vercel.app/api/top-langs/?username=BayuSatrio2804&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BayuSatrio2804&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy-liart-one.vercel.app/?username=BayuSatrio2804&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=BayuSatrio2804&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy-liart-one.vercel.app/?username=BayuSatrio2804&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -33,6 +33,12 @@ a casual coder and total newcomer. My current hobbies involve tinkering with Jav
 </picture>
 
 ---
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=BayuSatrio2804&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+<!-- Enhanced with Google Antigravity -->
